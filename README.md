@@ -9,3 +9,5 @@ for the dots. Click a square to activate it/deactivate it.
 No animations yet.
 
 Demo video: https://www.youtube.com/watch?v=AiTv4jrpLog
+
+Run it here (must have Java on device running!): https://github.com/edwinfinch/dotmatrixjava/blob/master/DotMatrix.jar
